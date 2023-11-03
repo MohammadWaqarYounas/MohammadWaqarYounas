@@ -11,7 +11,7 @@
 --- 
 
 ### :man_technologist: About Me :
-I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m working as a Software Engineer and developing Android apps in both JAVA and Kotlin.
 - :zap: I’m currently working on native Android Development with Kotlin, MVVM, Maps, AdMobs. And some part time projects on Fiverr and Upwork...
